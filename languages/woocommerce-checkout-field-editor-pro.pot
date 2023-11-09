@@ -1,0 +1,321 @@
+# Copyright (C) 2023 ThemeHigh
+# This file is distributed under the same license as the Checkout Field Editor for WooCommerce (Pro) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Checkout Field Editor for WooCommerce (Pro) 3.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-checkout-field-editor-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-26T11:28:51+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: woocommerce-checkout-field-editor-pro\n"
+
+#. Plugin Name of the plugin
+msgid "Checkout Field Editor for WooCommerce (Pro)"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.themehigh.com/product/woocommerce-checkout-field-editor-pro/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Design woocommerce checkout form in your own way, customize checkout fields(Add, Edit, Delete and re arrange fields)."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeHigh"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.themehigh.com"
+msgstr ""
+
+#: admin/class-thwcfe-admin-form-field.php:798
+msgid "Default Values"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-advanced.php:209
+msgid "Settings successfully reset"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-advanced.php:297
+msgid "Your changes were saved."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-advanced.php:299
+#: admin/class-thwcfe-admin-settings-import-export.php:320
+#: admin/class-thwcfe-admin-settings-import-export.php:360
+msgid "Your changes were not saved due to an error (or you made none!)."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-advanced.php:386
+msgid "Click here to get your API Key"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:119
+msgid "All sections are successfully reset."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:135
+msgid "This section is successfully reset."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:208
+msgid "Edit Section"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:212
+msgid "Duplicate Section"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:218
+msgid "Delete Section"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:227
+msgid "Add new section"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:401
+#: admin/class-thwcfe-admin-settings-general.php:427
+msgid "+ Add field"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:428
+msgid "Remove"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:429
+msgid "Enable"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:430
+msgid "Disable"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:457
+msgid "Else click here to get the default fields."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:567
+msgid "Edit Field"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:574
+msgid "Duplicate Field"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:584
+msgid "No checkout fields found. Click on Add Field button to create new fields."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-general.php:662
+msgid "Your changes were not saved due to no fields found."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-import-export.php:26
+msgid "Backup and Import Settings"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-import-export.php:30
+msgid "Plugin Settings Data"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-import-export.php:31
+msgid "You can transfer the saved settings data between different installs by copying the text inside the text box. To import data from another install, replace the data in the text box with the one from another install and click \"Save Settings\"."
+msgstr ""
+
+#. translators: 1: Media library URL 2: Exported file URL
+#: admin/class-thwcfe-admin-settings-import-export.php:107
+msgid "Section exported successfully. The exported file is available in <a href=\"%1$s\">Media Library</a> or You can download it <a download href=\"%2$s\">here</a>."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-import-export.php:117
+#: admin/class-thwcfe-admin-settings-import-export.php:171
+msgid "An error occurred while exporting data. Please try again!"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-import-export.php:136
+msgid "Field(s) not exported. Choose at least one field to export!"
+msgstr ""
+
+#. translators: 1: Media library URL 2: Exported file URL
+#: admin/class-thwcfe-admin-settings-import-export.php:162
+msgid "Field(s) exported successfully. The exported file is available in <a href=\"%1$s\">Media Library</a> or You can download it <a download href=\"%2$s\">here</a>."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-import-export.php:261
+msgid "An error occurred while importing file. Please try again!"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-import-export.php:271
+msgid "Invalid file type. The importer supports TXT file format."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-import-export.php:281
+#: admin/class-thwcfe-admin-settings-import-export.php:291
+msgid "An error occurred while importing file. Invalid file!"
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-import-export.php:314
+msgid "Section imported successfully."
+msgstr ""
+
+#: admin/class-thwcfe-admin-settings-import-export.php:354
+msgid "Field(s) imported successfully."
+msgstr ""
+
+#: admin/class-thwcfe-admin.php:114
+msgid "WooCommerce Checkout Field Editor Pro"
+msgstr ""
+
+#: admin/class-thwcfe-admin.php:114
+msgid "Checkout Form"
+msgstr ""
+
+#: admin/class-thwcfe-admin.php:135
+msgid "View plugin documentation"
+msgstr ""
+
+#: admin/class-thwcfe-admin.php:136
+msgid "Visit premium customer support"
+msgstr ""
+
+#: includes/class-thwcfe-order-data.php:56
+msgid "Custom Checkout Fields"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:118
+msgid "This field is mandatory"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:119
+msgid "Invalid email format"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:120
+msgid "Please enter the input in digits"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:121
+msgid "Invalid url format"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:122
+msgid "Text entered is less than the minimum length"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:123
+msgid "Input value is not a number"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:126
+#: public/class-thwcfe-public-myaccount.php:105
+msgid "am"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:127
+#: public/class-thwcfe-public-myaccount.php:106
+msgid "pm"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:128
+#: public/class-thwcfe-public-myaccount.php:107
+msgid "AM"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:129
+#: public/class-thwcfe-public-myaccount.php:108
+msgid "PM"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:130
+#: public/class-thwcfe-public-myaccount.php:109
+msgid "."
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:131
+#: public/class-thwcfe-public-myaccount.php:110
+msgid "mins"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:132
+#: public/class-thwcfe-public-myaccount.php:111
+msgid "hr"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:133
+#: public/class-thwcfe-public-myaccount.php:112
+msgid "hrs"
+msgstr ""
+
+#: public/class-thwcfe-public-checkout.php:153
+#: public/class-thwcfe-public-myaccount.php:129
+msgid "Maximum upload size exceeded"
+msgstr ""
+
+#: public/class-thwcfe-public.php:321
+msgid "is not a valid number."
+msgstr ""
+
+#: public/class-thwcfe-public.php:325
+msgid "is not a valid url."
+msgstr ""
+
+#. translators: 1: Field name
+#: public/class-thwcfe-public.php:370
+msgid "<strong>%1$s field:</strong> Please fill in the displayed format"
+msgstr ""
+
+#. translators: 1: Field name 2: Minimum length
+#: public/class-thwcfe-public.php:397
+msgid "<strong>%1$s field:</strong> The text entered is less than the minimum length. Minimum %2$s characters are required."
+msgstr ""
+
+#. translators: 1: Field name 2: Maximum length
+#: public/class-thwcfe-public.php:419
+msgid "<strong>%1$s field:</strong> You can only select %2$s items."
+msgstr ""
+
+#. translators: 1: Field name 2: Maximum length
+#: public/class-thwcfe-public.php:447
+msgid "<strong>%1$s field:</strong> The text entered exceeds the maximum length. Maximum %2$s characters are allowed."
+msgstr ""
+
+#. translators: 1: Field name 2: Minimum time
+#: public/class-thwcfe-public.php:466
+msgid "<strong>%1$s field:</strong> The time entered is lesser than the minimum time. Value must be %2$s or later."
+msgstr ""
+
+#. translators: 1: Field name 2: Maximum time
+#: public/class-thwcfe-public.php:483
+msgid "<strong>%1$s field:</strong> The time entered is greater than the maximum time. Value must be %2$s or earlier."
+msgstr ""
+
+#. translators: 1: Field name 2: Minimum time
+#: public/class-thwcfe-public.php:500
+msgid "<strong>%1$s field:</strong> The date time entered is lesser than the minimum value. Value must be %2$s or later."
+msgstr ""
+
+#. translators: 1: Field name 2: Maximum datetime local
+#: public/class-thwcfe-public.php:518
+msgid "<strong>%1$s field:</strong> The date time local entered is greater than the maximum value. Value must be %2$s or earlier."
+msgstr ""
+
+#: public/class-thwcfe-public.php:570
+msgid "An inappropriate change detected"
+msgstr ""
+
+#. translators: %s: Accepted types
+#: public/class-thwcfe-public.php:602
+msgid "Invalid file type, allowed types are %s"
+msgstr ""
+
+#. translators: %s: Maximum size
+#: public/class-thwcfe-public.php:610
+msgid "Uploaded file should not exceed %sMB."
+msgstr ""
